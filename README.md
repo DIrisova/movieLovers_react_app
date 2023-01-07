@@ -1,2 +1,0 @@
-# movieLovers
-React app
